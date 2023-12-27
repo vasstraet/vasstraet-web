@@ -1,0 +1,4 @@
+- name: Hem
+  link: /
+- name: Nyheter
+  link: /blog.html
