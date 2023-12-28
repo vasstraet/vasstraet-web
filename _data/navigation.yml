@@ -2,3 +2,5 @@
   link: /
 - name: Nyheter
   link: /blog.html
+- name: FAQ
+  link: /faq.html
