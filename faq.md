@@ -1,5 +1,4 @@
 ---
 title: faq
 ---
-
-FAQ test
+test
